@@ -2,7 +2,7 @@
 //!
 //! [![codecov badge][]][codecov link] [![discord badge][]][discord link] [![github badge][]][github link] [![license badge][]][license link] ![rust badge]
 //!
-//! **This crate has been deprecated. Please use [Discord interactions] via the
+//! **This crate has been archived. Please use [Discord interactions] via the
 //! [`twilight-gateway`] or [`twilight-http`] crates.**
 //!
 //! `twilight-command-parser` is a command parser for the [`twilight-rs`]
